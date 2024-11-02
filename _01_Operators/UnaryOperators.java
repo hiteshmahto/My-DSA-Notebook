@@ -19,5 +19,4 @@ public class UnaryOperators {
         System.out.println("p: " + --p); // p = 33
         System.out.println("p: " + p); // p = 33
     }
-    
 }
